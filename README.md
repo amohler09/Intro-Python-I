@@ -52,6 +52,7 @@ best for learning new languages.
    $ python --version
    Python 3.6.5
    ```
+   
 
    You can exit the virtual environment by typing `exit`.
 
